@@ -1,6 +1,9 @@
 # Third_Challenge
+### Figure:
+This is the firs part of the challenge.
 
-# Restaurant
+### Restaurant:
+Below you will find the second part of the challenge.
 This is a program to calculate the bill for a customer's order at a restaurant.
 ```mermaid
 classDiagram
